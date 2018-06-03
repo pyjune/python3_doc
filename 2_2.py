@@ -1,0 +1,8 @@
+print("화면에 직접 출력")
+print('ab\'c')
+print("doesn't")
+print('does')
+print('doesn\'t')
+print("'string'")
+print("\"string\"")
+print('"string"')
