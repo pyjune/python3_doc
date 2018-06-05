@@ -9,6 +9,10 @@ print(b*6)
 print(a/b)
 print(a/10)
 
+# 정수형 나눗셈
+print(a//2)
+print(b//2)
+
 # 모드 연산
 print(a%2) #a를 2로 나눈 나머지
 print(b%a) #b를 a로 나눈 나머지
