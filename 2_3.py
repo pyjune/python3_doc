@@ -19,3 +19,9 @@ d = 1e2
 e = 1e-2
 print(d)
 print(e)
+
+# 교환
+c = 10
+d = 20
+c, d = d, c
+print(c , d)
