@@ -16,3 +16,11 @@ for i in range(5, 0, -2):
 a = [10, 20, 30]
 for x in a:
     print(x)
+
+# for를 사용한 메뉴 출력
+menu = ['','Americano', 'Latte', 'Espresso', 'Mocha', '식혜', '수정과']
+price = [0,1500, 2000, 1700, 2500, 2000, 1900]
+
+#메뉴 보이기
+for i in range(1,7) :
+    print(i, menu[i], price[i])
